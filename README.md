@@ -120,6 +120,6 @@ Deploy model using Streamlit
 
 **👤 Author**
 
-Your Name
+Aakash Deep
 Machine Learning Enthusiast
 📧 deepaakash152@gmail.com
