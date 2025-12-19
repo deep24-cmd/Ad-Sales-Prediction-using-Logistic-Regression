@@ -73,7 +73,7 @@ Purchased (Target Variable)
 
 **⚙️ Installation & Setup**
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Advertisement-Sale-Prediction.git
+git clone https://github.com/deep24-cmd/Advertisement-Sale-Prediction.git
 
 2️⃣ Navigate to Project Folder
 cd Advertisement-Sale-Prediction
